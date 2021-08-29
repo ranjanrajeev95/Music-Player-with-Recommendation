@@ -1,7 +1,6 @@
 # RELAXIFY
 
-Music player, build during "Hackation" hackathon by MLH.
-[Check it Out here](https://relaxify-player.herokuapp.com/)
+A music player application that recommend music based on the emotion you choose.
 
 ![demo](./demo.gif)
 
